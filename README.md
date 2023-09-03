@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesyntaxcreator" alt="codesyntaxcreator" /></a> </p>
 
-- 🔭 I’m currently working on [Spark Developments](https://github.com/SparkDevelopments)
+- 🔭 I’m currently working on [HypixelProject](https://github.com/TheHypixelProject)
 
 - 🌱 I’m currently learning **JavaFX and Python**
 
