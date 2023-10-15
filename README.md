@@ -1,33 +1,31 @@
-<h1 align="center">Hi 👋, I'm Arham</h1>
-<h3 align="center">A passionate UI developer</h3>
+<h2 align="center">Hi 👋! My name is Arham and I'm a Student</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codesyntaxcreator&label=Profile%20views&color=0e75b6&style=flat" alt="codesyntaxcreator" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesyntaxcreator" alt="codesyntaxcreator" /></a> </p>
+<div align="left">
+  <a href="https://discord.gg/d5qcvxDEVz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on [HypixelProject](https://github.com/TheHypixelProject)
+###
 
-- 🌱 I’m currently learning **JavaFX and Python**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
 
-- 👯 I’m looking to collaborate on **A non profit open source organization.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/CodeSyntaxCreator](https://github.com/CodeSyntaxCreator)
-
-- 💬 Ask me about **JavaFX Scene Builder**
-
-- 📫 How to reach me **codecraftsman0@gmail.com**
-
-- ⚡ Fun fact **Isn't it funny that people elder than you never increases.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesyntaxcreator&show_icons=true&locale=en&layout=compact" alt="codesyntaxcreator" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesyntaxcreator&show_icons=true&locale=en" alt="codesyntaxcreator" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesyntaxcreator&" alt="codesyntaxcreator" /></p>
+###
